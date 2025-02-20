@@ -87,7 +87,7 @@ Feel free to modify or completely replace this template to suit your game design
 ## Partners
 - Lauren, Cole
 - George, Alexander
-- Chris, Nahman
+- Alex, Nahman
 - Will, Ella
 - Brian, Gordie, Chris
 - Drew, Rylan

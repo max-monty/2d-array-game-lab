@@ -1,4 +1,3 @@
-package src;
 public class BoardGame {
     private String[][] board;
     private int playerRow;
